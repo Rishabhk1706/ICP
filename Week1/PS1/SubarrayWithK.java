@@ -28,3 +28,4 @@ public class SubarrayWithK {
         sc.close();
     }
 }
+//LC 992
